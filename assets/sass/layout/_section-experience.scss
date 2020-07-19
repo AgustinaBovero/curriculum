@@ -1,0 +1,18 @@
+.section-experience h3{
+  margin-bottom: 0;
+  flex-grow: 1;
+}
+
+.section-experience__p-bold, .section-experience__p-light{
+  margin-top: .2rem;
+}
+
+.section-experience__container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.section-experience__date{
+  margin-bottom: 0;
+}

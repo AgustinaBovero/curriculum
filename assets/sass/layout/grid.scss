@@ -1,0 +1,15 @@
+body{
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.nav{
+  grid-column: 1 / 2 ;
+}
+
+.container{
+  grid-column: 4 / 11;
+}

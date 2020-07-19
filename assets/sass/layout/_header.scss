@@ -1,0 +1,36 @@
+.header {
+  padding-top: 8rem;
+}
+
+.header__title {
+  margin-bottom: 0;
+}
+
+.header__subtitle{
+  margin-top: .2rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.header__text{
+  margin-top: 3.5rem;
+}
+
+.header__logos {
+  margin-top: 3rem;
+}
+
+.header__logos i  {
+  margin-right: 1rem;
+}
+
+.line{
+  padding-left: 3rem;
+  padding-right: 3rem;
+  margin-left: 0rem;
+  margin-right: 0rem;
+  margin-top: 2rem;
+}

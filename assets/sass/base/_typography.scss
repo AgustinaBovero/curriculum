@@ -1,0 +1,69 @@
+body{
+  font-family: $lato;
+}
+
+.header__title{
+  font-weight: $lato-black;
+  font-size: $xxx-large;
+}
+
+.header__subtitle{
+  font-weight: $lato-regular;
+  font-size: $large;
+}
+
+.header__subtitle span {
+  font-weight: $lato-bold;
+}
+
+.header__text{
+  font-weight: $lato-light;
+}
+
+h3 {
+  font-weight: $lato-bold;
+  font-size: $x-large;
+
+}
+
+h1 {
+  font-weight: $lato-black;
+  font-size: $xx-large;
+
+}
+
+.nav__menu{
+  font-weight: $lato-black;
+  font-size: $medium;
+}
+
+.section-experience__p-light{
+  font-weight: $lato-light;
+  font-size: $medium;
+}
+
+.section-experience__p-bold{
+  font-weight: $lato-bold;
+  font-size: $medium;
+}
+
+.section-experience__date, .section-education__date{
+  font-weight: $lato-bold;
+  font-size: $large;
+}
+
+
+.section-education__p, .section-skills__p, .section-contact__text{
+  font-weight: $lato-light;
+  font-size: $large;
+}
+
+.section-contact__form-p{
+  font-weight: $lato-bold;
+  font-size: $medium;
+}
+
+input {
+  font-weight: $lato-light;
+  font-size: $small;
+}
